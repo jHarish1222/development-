@@ -1,0 +1,3 @@
+git remote set-url origin my github url
+git remote add origin my github url
+git push -u origin master 
